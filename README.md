@@ -6,7 +6,7 @@ A Power BI report analysing employee attrition across 4 key areas.
 
 ### Overview
 KPI cards + attrition by department and job role.
-[screenshot here]
+
 
 ### Demographics
 Attrition breakdown by age, gender, education, and marital status.
