@@ -1,6 +1,6 @@
 # HR Attrition Analysis Dashboard
 
-A Power BI report analysing employee attrition across 4 key areas.
+A Power BI report analysing employee attrition across 4 key areas.([Hr Attrition Dashboard](https://github.com/Ndelaski/powerbi-hr-analytics/blob/main/hrattrition.pdf))
 
 ## 📊 Dashboard Pages
 
