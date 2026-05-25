@@ -24,4 +24,4 @@ IBM HR Analytics Employee Attrition dataset ([WA_Fn-UseC_-HR-Employee-Attrition]
 - Power BI Desktop (version 2026.05)
 
 ## 📁 File
-Download the .pbix file [([./hrattrition.pbix](https://github.com/Ndelaski/powerbi-hr-analytics/blob/main/hrattrition.pbix))] — open with Power BI Desktop
+Download the .pbix file ([./hrattrition.pbix](https://github.com/Ndelaski/powerbi-hr-analytics/blob/main/hrattrition.pbix)) — open with Power BI Desktop
