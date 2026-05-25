@@ -18,7 +18,7 @@ Impact of overtime, income, job satisfaction, and tenure on attrition.
 High-risk employee identification and pivot table by dept/role.
 
 ## 🗃️ Data Source
-IBM HR Analytics Employee Attrition dataset (WA_Fn-UseC_-HR-Employee-Attrition)
+IBM HR Analytics Employee Attrition dataset ([WA_Fn-UseC_-HR-Employee-Attrition](https://github.com/Ndelaski/powerbi-hr-analytics/tree/main/Data))
 
 ## 🛠️ Tools Used
 - Power BI Desktop (version 2026.05)
